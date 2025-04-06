@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+    background-color:rgba(194, 194, 194, 1);
+}
+h1 {
+    color:rgba(73, 31, 31, 1);
+    margin-left:50px;
+    text-size:36px;
+   
+}
+h1 img {
+    margin-right:25px;
+}
+header {
+    background-color:rgba(194, 194, 194, 1);
+}
+main {
+    background-color:rgba(144, 33, 33, 1);
+    color:rgba(73, 31, 31, 1);
+
+}
+.pomidorikiii {
+    background-color: rgba(122, 43, 43, 1);
+}
+.tomato {
+    color:rgba(55, 55, 55, 1);
+    font-size:13px;
+    background-color: rgba(178, 74, 74, 1);
+
+}
+.tomatik {
+   background-color: rgba(178, 74, 74, 1);
+   color:black;
+   font-size: 30px; 
+}
+.pomidor {
+    font-size:20px;
+    margin-left:30px;
+    margin-right:30px;
+}
+.pomidorik {
+    background-color:rgb(0, 0, 0);
+    color:white;
+    margin-right:850px;
+
+
+}
+.pomidork {
+    font-size:25px;
+margin-left:30px;
+margin-right:30px;
+}
+.pomidorki {
+    font-size:20px;
+    margin-right:850px;
+
+}
+.pomidori {
+    font-size:20px;
+    margin-right:850px;
+
+}
+.pomikidor {
+    color:black;
+    background-color: rgba(217, 217, 217, 1);
+}
+
+    
+
+
+
